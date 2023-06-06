@@ -1,0 +1,16 @@
+
+.table {
+        display: table;
+        
+        width: 100%;
+        }
+        
+.table-cell {
+        display: table-cell;
+        padding: 10px;
+        margin:2px;
+        max-width: 1px;
+       
+        }
+
+        

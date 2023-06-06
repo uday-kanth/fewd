@@ -1,0 +1,20 @@
+
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+th{
+    text-align: center;
+    height: 50px;
+    width: 100px;
+}
+
+td{
+    text-align: center;
+    height: 50px;
+    width: 100px;
+}

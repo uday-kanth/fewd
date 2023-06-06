@@ -1,0 +1,56 @@
+.myback{
+    background: linear-gradient(to bottom right, #33ccff 0%, #ff66ff 100%) ;
+    height: 100%;
+    background-attachment: fixed;
+
+
+}
+
+.myback2{
+
+
+    background:linear-gradient(to top right, #33ccff 0%, #99ff99 100%);
+}
+
+.myback_warning{
+    background:linear-gradient(to top right, #ff9900 0%, #ffff00 75%);
+
+
+}
+
+.navbar {
+    background-color: black;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0; /* Changed from padding: 10; */
+    list-style: none;
+  }
+  
+  .nav-item {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  .nav-link {
+    display: inline-block;
+    color: red;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: color 0.2s ease-in-out;
+    padding: 0 10px; /* Added padding to create some space between the links */
+  }
+  
+  .nav-link:hover {
+    color: #f1c40f;
+  }
